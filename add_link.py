@@ -1,12 +1,12 @@
 file='fake_zebra.txt'
 #model='ImagenetZebra_cycle_attn_X1_test160_fake_horse'
-model='CycleGAN_fake_zebra'
+model='real_zebra'
 new_file='link_'+model+'.txt'
 fileWrite = open(new_file, 'w')
 fileRead=open(file)  
 line=fileRead.readline()
 while (''!=line):
-	new_line='https://raw.githubusercontent.com/napCC/PhotoRep/master/'+model+'/'+line[:-5]+'.png\n'
+	new_line='https://raw.githubusercontent.com/napCC/PhotoRep/master/'+model+'/'+line[:-5]+'_real_B.png\n'
 	fileWrite.write(new_line)
 	print('writing : '+new_line)
 	line=fileRead.readline()

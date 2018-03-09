@@ -1,0 +1,4 @@
+image_url,image_A_url,image_B_url
+https://raw.githubusercontent.com/napCC/PhotoRep/master/real_horse/n02381460_1160.jpg,https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_zebra/n02381460_1160.png,https://raw.githubusercontent.com/napCC/PhotoRep/master/ImagenetZebra_cycle_attn_X2_fake_zebra/n02381460_1160_fake_B.png
+https://raw.githubusercontent.com/napCC/PhotoRep/master/real_horse/n02381460_1750.jpg,https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_zebra/n02381460_1750.png,https://raw.githubusercontent.com/napCC/PhotoRep/master/ImagenetZebra_cycle_attn_X2_fake_zebra/n02381460_1750_fake_B.png
+https://raw.githubusercontent.com/napCC/PhotoRep/master/real_horse/n02381460_1820.jpg,https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_zebra/n02381460_1820.png,https://raw.githubusercontent.com/napCC/PhotoRep/master/ImagenetZebra_cycle_attn_X2_fake_zebra/n02381460_1820_fake_B.png
