@@ -6,9 +6,9 @@ fileWrite = open(new_file, 'w')
 fileRead=open(file)  
 line=fileRead.readline()
 while (''!=line):
-	new_line='https://raw.githubusercontent.com/napCC/PhotoRep/master/'+model+'/'+line[:-5]+'.png\n'
+	new_line='https://raw.githubusercontent.com/napCC/PhotoRep/master/'+model+'/'+line[:-5]+'_fake_B.png\n'
 	fileWrite.write(new_line)
-	print('writing : '+line)
+	print('writing : '+new_line)
 	line=fileRead.readline()
 fileWrite.close()
 fileRead.close()	
