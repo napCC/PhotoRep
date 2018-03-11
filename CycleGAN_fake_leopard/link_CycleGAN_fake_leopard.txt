@@ -12,12 +12,12 @@ https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_leopard/n0
 https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_leopard/n01323068_3375_fake_B.png
 https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_leopard/n01323068_3378_fake_B.png
 https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_leopard/n01323068_3391_fake_B.png
-https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_leopard/n01323068_3393_fake_B.png
+https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_leopard/n01323068_1176_fake_B.png
 https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_leopard/n01323068_3396_fake_B.png
 https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_leopard/n01323068_3412_fake_B.png
 https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_leopard/n01323068_3419_fake_B.png
 https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_leopard/n01323068_3428_fake_B.png
-https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_leopard/n01323068_3441_fake_B.png
+https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_leopard/n01323068_1336_fake_B.png
 https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_leopard/n01323068_4653_fake_B.png
 https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_leopard/n01323068_4655_fake_B.png
 https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_leopard/n01323068_4658_fake_B.png
@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_leopard/n0
 https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_leopard/n01323068_5057_fake_B.png
 https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_leopard/n01323068_5058_fake_B.png
 https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_leopard/n01323068_5059_fake_B.png
-https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_leopard/n01323068_5064_fake_B.png
+https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_leopard/n01323068_10082_fake_B.png
 https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_leopard/n01323068_5067_fake_B.png
 https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_leopard/n01323068_5072_fake_B.png
 https://raw.githubusercontent.com/napCC/PhotoRep/master/CycleGAN_fake_leopard/n01323068_5074_fake_B.png
