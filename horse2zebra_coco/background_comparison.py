@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import cv2
 from pdb import set_trace as st
-horse2zebra=False
-AttnGANFold='/home/xche6658/code/pytorch-CycleGAN-and-pix2pix/results/horse2zebra_coco/zebra_attnganX2-200_featloss_sparse1/test_200/images/'
+horse2zebra=True
+AttnGANFold='/home/xche6658/code/pytorch-CycleGAN-and-pix2pix/results/horse2zebra_coco/zebra_attngan1_featloss_sup/test_200/images/'
 if horse2zebra:
   suffix='_real_A_fake_B.png'
 #  suffix='_fake_B.png'
