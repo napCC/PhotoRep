@@ -1,6 +1,0 @@
-model_checkpoint_path: "MCNET.model-100002"
-all_model_checkpoint_paths: "MCNET.model-98002"
-all_model_checkpoint_paths: "MCNET.model-98502"
-all_model_checkpoint_paths: "MCNET.model-99002"
-all_model_checkpoint_paths: "MCNET.model-99502"
-all_model_checkpoint_paths: "MCNET.model-100002"
